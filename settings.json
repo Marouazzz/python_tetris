@@ -1,0 +1,11 @@
+{
+    "volume": 0.5,
+    "music_file": "Sounds/music.ogg",
+    "controls": {
+        "left": "left",
+        "right": "right",
+        "rotate": "up",
+        "drop": "space",
+        "pause": "p"
+    }
+}

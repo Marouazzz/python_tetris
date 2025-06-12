@@ -1,0 +1,92 @@
+[
+    {
+        "player": "houdatoun",
+        "score": 893,
+        "difficulty": "Hard",
+        "level": 2,
+        "lines": 4,
+        "timestamp": "2025-06-12T19:15:53.515070",
+        "user_id": null
+    },
+    {
+        "player": "Guest",
+        "score": 614,
+        "difficulty": "Easy",
+        "level": 2,
+        "lines": 2,
+        "timestamp": "2025-06-12T18:42:26.190525",
+        "user_id": null
+    },
+    {
+        "player": "Guest",
+        "score": 585,
+        "difficulty": "Medium",
+        "level": 2,
+        "lines": 2,
+        "timestamp": "2025-06-12T18:21:44.064149",
+        "user_id": null
+    },
+    {
+        "player": "mohammed",
+        "score": 315,
+        "difficulty": "Hard",
+        "level": 2,
+        "lines": 1,
+        "timestamp": "2025-06-12T20:43:39.918572",
+        "user_id": null
+    },
+    {
+        "player": "mohammed",
+        "score": 231,
+        "difficulty": "Hard",
+        "level": 2,
+        "lines": 1,
+        "timestamp": "2025-06-12T20:40:15.966022",
+        "user_id": null
+    },
+    {
+        "player": "maroua",
+        "score": 200,
+        "difficulty": "Easy",
+        "level": 2,
+        "lines": 0,
+        "timestamp": "2025-06-12T17:47:12.163179",
+        "user_id": null
+    },
+    {
+        "player": "Guest",
+        "score": 104,
+        "difficulty": "Hard",
+        "level": 2,
+        "lines": 0,
+        "timestamp": "2025-06-12T18:13:44.389135",
+        "user_id": null
+    },
+    {
+        "player": "Guest",
+        "score": 99,
+        "difficulty": "Hard",
+        "level": 2,
+        "lines": 0,
+        "timestamp": "2025-06-12T19:12:54.968149",
+        "user_id": null
+    },
+    {
+        "player": "Guest",
+        "score": 81,
+        "difficulty": "Medium",
+        "level": 2,
+        "lines": 0,
+        "timestamp": "2025-06-12T18:29:10.119657",
+        "user_id": null
+    },
+    {
+        "player": "Guest",
+        "score": 0,
+        "difficulty": "Medium",
+        "level": 1,
+        "lines": 0,
+        "timestamp": "2025-06-12T18:49:31.887831",
+        "user_id": null
+    }
+]
